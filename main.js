@@ -1,7 +1,7 @@
 require("dotenv").config()
 const Cuybot = require("./app/Cuybot")
 
-const token = process.env.TELEGRAM_TOKEN
+const token = "7060613505:AAGG3j3a2z6l8Ed1ATYGG6N8j__PxMmR92A"
 const options = {
     polling: true
 }
