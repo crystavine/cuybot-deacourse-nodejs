@@ -1,0 +1,11 @@
+{
+  "run": {
+    "command": "node main.js",
+    "env": {
+      "NODE_ENV": "production",
+      "TELEGRAM_API_TOKEN": "7060613505:AAGG3j3a2z6l8Ed1ATYGG6N8j__PxMmR92A"
+    }
+  },
+  "shell": "/bin/bash",
+  "language": "node"
+}
